@@ -122,7 +122,7 @@ TECHNO
 -------------
 - [audio](http://www.w3schools.com/tags/tag_audio.asp) | [video](http://www.w3schools.com/tags/tag_video.asp): Defines sound content|a video or movie
     - [source](http://www.w3schools.com/tags/tag_source.asp): Defines multiple media resources for media elements (&lt;video> and &lt;audio>)
-    - [track](http://www.w3schools.com/tags/tag_track.asp):
+    - [track](http://www.w3schools.com/tags/tag_track.asp): Defines text tracks for media elements (&lt;video> and &lt;audio>)
 - [canvas](http://www.w3schools.com/tags/tag_canvas.asp): Used to draw graphics, on the fly, via scripting (usually JavaScript)
 - [embed](http://www.w3schools.com/tags/tag_embed.asp): Defines a container for an external (non-HTML) application
 - [iframe](http://www.w3schools.com/tags/tag_iframe.asp): Defines an inline frame Defines text tracks for media elements (&lt;video> and &lt;audio>)
